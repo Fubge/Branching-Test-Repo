@@ -1,1 +1,2 @@
-// this is the first line of my test clas
+// this is the first line of my test class
+// My Code sucks a **** dick
